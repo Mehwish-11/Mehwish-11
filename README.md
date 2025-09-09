@@ -28,7 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
----
 
-### 📊 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=YourUserName&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
+  
+</p>
+
