@@ -41,11 +41,6 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehwish-11&theme=tokyo-night)
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
