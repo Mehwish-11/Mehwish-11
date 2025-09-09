@@ -29,12 +29,12 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 <p align="center">
   <!-- First row -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,nextjs,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,nextjs,nodejs,mongodb,python" />
 
-  <br /> <!-- Line break -->
+  <br /> <!-- New line -->
 
   <!-- Second row -->
-  <img src="https://skillicons.dev/icons?i=python,java,git" />
+  <img src="https://skillicons.dev/icons?i=java,git" />
 </p>
 
 ---
