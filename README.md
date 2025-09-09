@@ -1,15 +1,13 @@
 <!-- Banner -->
- <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+
+
+ <h1 align="center">Mehwish Fathima</h1>
+<p align="center">
+  <b>ReactJs Developer / UI/UX Developer | Lifelong Learner</b>
 </p> 
 
-<!-- <h1 align="center">Mehwish Fathima</h1>
-<p align="center">
-  <b>ReactJS Developer / UI/UX Developer | Lifelong Learner</b>
-</p> -->
 
-
-<!-- --- -->
+ --- 
 
 ![Profile views](https://img.shields.io/badge/Profile%20views-1,128-brightgreen)
 
