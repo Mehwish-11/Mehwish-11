@@ -7,6 +7,10 @@
 
 ---
 
+![Profile views](https://img.shields.io/badge/Profile%20views-11,280-brightgreen)
+
+---
+
 ## 👩‍💻 About Me  
 
 I’m passionate about **building beautiful, functional, and user-friendly web applications**.  
