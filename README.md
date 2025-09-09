@@ -37,12 +37,6 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak"/>
-</p>
-
 ## 🔥 Featured Projects  
 
 - 🚀 [**Portfolio Website**](#) — My personal portfolio showcasing UI/UX and dev projects  
@@ -56,18 +50,8 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
-## 📊 Top Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehwish-11&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehwish-11&theme=tokyo-night)
-
----
-
-## 🎨 3D Contribution Graph
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
