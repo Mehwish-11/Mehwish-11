@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning [Next.js / React / etc.]
 - 👯 I’m looking to collaborate on [Open Source / UI/UX ]
 - 💬 Ask me about **React, Three.js, Framer Motion**
-- 📫 How to reach me: [Mehwishfathima.mail@gmail.com]
+- 📫 How to reach me: [ Mehwishfathima.mail@gmail.com ]
 
 ---
 
