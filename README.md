@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="pin.jpg" alt="Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Mehwish Fathima</h1>
 <p align="center">
