@@ -43,10 +43,6 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 - 🎨 [**UI Components Library**](#) — Reusable React + Tailwind UI components  
 - 🌍 [**Open Source Contributions**](#) — Actively contributing to the community  
 
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehwish-11&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
