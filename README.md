@@ -1,7 +1,8 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm Mehwish Fathima</h1>
 <p align="center">
-  <b>Front-End Engineer | UI/UX Enthusiast | Lifelong Learner</b>
+  <b>ReactJS Developer / UI/UX Developer
+| Lifelong Learner</b>
 </p>
 
 ---
