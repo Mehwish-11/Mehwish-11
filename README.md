@@ -31,7 +31,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak"/>
 </p>
 
 ## 🔥 Featured Projects  
@@ -45,7 +45,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/mehwishfathima11" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mehwishfathima.mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
