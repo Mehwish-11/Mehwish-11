@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Mehwish Fathima</h1>
+<h1 align="center">👋 Mehwish Fathima</h1>
 <p align="center">
   <b>ReactJS Developer / UI/UX Developer
 | Lifelong Learner</b>
