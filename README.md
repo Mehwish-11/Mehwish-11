@@ -6,7 +6,7 @@
 
 ---
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Mehwish Fathima
 
 - 🔭 I’m currently working on [UI/UX and Portfolio's]
 - 🌱 I’m currently learning [Next.js / React / etc.]
