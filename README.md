@@ -1,10 +1,13 @@
 <!-- Banner -->
-<div align="center" style="background-image: url('pin.jpg'); background-size: cover; background-position: center; padding: 50px 0;">
-  <h1>Mehwish Fathima</h1>
-  <p>
-    <b>ReactJS Developer / UI/UX Developer | Lifelong Learner</b>
-  </p>
-</div>
+<p align="center">
+  <img src="pin.jpg" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Mehwish Fathima</h1>
+<p align="center">
+  <b>ReactJS Developer / UI/UX Developer | Lifelong Learner</b>
+</p>
+
 
 
 ---
