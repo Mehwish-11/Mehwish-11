@@ -30,17 +30,17 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" /><br>
-  
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" /><br>
-  
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" /><br>
-  
-  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
+
 </p>
 ---
 
