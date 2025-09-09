@@ -30,7 +30,6 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak" />
 </p>
 
