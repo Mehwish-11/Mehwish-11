@@ -32,6 +32,12 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehwish-11&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
