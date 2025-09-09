@@ -30,9 +30,9 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,redux,nextjs,nodejs,mongodb,python,java,pytorch,git,latex,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,vite,angular,nodejs,express,python,fastapi,django,java,spring,graphql,mongodb,postgres,mysql,redis,firebase,docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,jenkins,githubactions,pytorch,tensorflow,numpy,pandas,scikitlearn,git,github,bash,figma,latex,vim,c,cpp,go,rust" />
 </p>
-
+ 
 ---
 
 ## 🔥 Featured Projects  
