@@ -32,9 +32,8 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehwish-11&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 📊 Top Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehwish-11&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,6 +48,26 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 - 🚀 [**Portfolio Website**](#) — My personal portfolio showcasing UI/UX and dev projects  
 - 🎨 [**UI Components Library**](#) — Reusable React + Tailwind UI components  
 - 🌍 [**Open Source Contributions**](#) — Actively contributing to the community  
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehwish-11&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Top Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehwish-11&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehwish-11&theme=tokyo-night)
+
+---
+
+## 🎨 3D Contribution Graph
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
