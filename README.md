@@ -36,7 +36,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,azure,gcp" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
