@@ -30,10 +30,9 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ## 📊 GitHub Stats  
 
- ![Streak](https://img.shields.io/badge/Streak-98_days-brightgreen)  
-![Contributions](https://img.shields.io/badge/Contributions-100%2B-blue)  
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-100-red)
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak" />
+</p>
 
 ## 🔥 Featured Projects  
 
