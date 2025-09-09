@@ -32,11 +32,6 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ---
 
-## 📊 Top Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehwish-11&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Featured Projects  
 
 - 🚀 [**Portfolio Website**](#) — My personal portfolio showcasing UI/UX and dev projects  
