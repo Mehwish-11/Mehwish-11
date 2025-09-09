@@ -7,7 +7,7 @@
 
 ---
 
-![Profile views](https://img.shields.io/badge/Profile%20views-11,280-emeraldgreen)
+![Profile views](https://img.shields.io/badge/Profile%20views-11,280-brightgreen)
 
 ---
 
