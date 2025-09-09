@@ -37,9 +37,9 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 ## 🔥 Featured Projects  
 
-- 🚀 [**Portfolio Website**](#) — My personal portfolio showcasing UI/UX and dev projects  
-- 🎨 [**UI Components Library**](#) — Reusable React + Tailwind UI components  
-- 🌍 [**Open Source Contributions**](#) — Actively contributing to the community  
+- 🚀 [**Portfolio Website**](https://mehwish-11.github.io/3D-Animation/) — My personal portfolio showcasing UI/UX and dev projects  
+- 🎨 [**UI Components Library**](https://gaming-project-iota.vercel.app/) — Reusable React + Tailwind UI components  
+- 🌍 [**Open Source Contributions**](https://mehwish-11.github.io/Anime-portfolio-ui/) — Actively contributing to the community  
 
 
 ---
