@@ -28,7 +28,13 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,nextjs,nodejs,mongodb,python,java,git"/>
+  <!-- First row -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,nextjs,nodejs,mongodb" />
+
+  <br /> <!-- Line break -->
+
+  <!-- Second row -->
+  <img src="https://skillicons.dev/icons?i=python,java,git" />
 </p>
 
 ---
