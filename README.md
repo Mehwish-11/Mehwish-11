@@ -30,23 +30,17 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,vite,angular" /><br>
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" /><br>
   
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,java,spring,graphql" /><br>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" /><br>
   
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" /><br>
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" /><br>
   
-  <!-- DevOps / Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,jenkins,githubactions" /><br>
-  
-  <!-- AI / Data Science -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,scikitlearn" /><br>
-  
-  <!-- Tools & Others -->
-  <img src="https://skillicons.dev/icons?i=git,github,bash,figma,latex,vim,c,cpp,go,rust" />
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
 </p>
 ---
 
