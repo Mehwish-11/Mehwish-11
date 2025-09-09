@@ -31,16 +31,16 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 
 <p align="center">
   <!-- Row 1 -->
-  <img align="center src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" /><br>
+  <img  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" /><br>
   
   <!-- Row 2 -->
-  <img align="center src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" /><br>
+  <img  src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" /><br>
   
   <!-- Row 3 -->
-  <img align="center src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" /><br>
+  <img  src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp" /><br>
   
   <!-- Row 4 -->
-  <img align="center src="https://skillicons.dev/icons?i=jenkins,git,github" />
+  <img  src="https://skillicons.dev/icons?i=jenkins,git,github" />
 </p>
 ---
 
