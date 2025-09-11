@@ -19,7 +19,7 @@
 I’m passionate about **building beautiful, functional, and user-friendly web applications**.  
 Currently diving deep into **Next.js, React, and design systems**, while exploring ways to merge **creativity + logic + design**.  
 
-- 🔭 Working on: **UI/UX projects & Personal Portfolio**  
+- 🔭 Working on: **UI/UX projects & ReactJs**  
 - 🌱 Learning: **Next.js / React / Motion Design**  
 - 👯 Open to collaborate on: **Open Source & UI/UX focused apps**  
 - 💬 Ask me about: **React, Three.js, Framer Motion**  
