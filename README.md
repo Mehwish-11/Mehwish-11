@@ -3,7 +3,7 @@
 
  <h1 align="center">Mehwish Fathima</h1>
 <p align="center">
-  <b>ReactJs Developer / UI/UX Developer</b>
+  <b>Reactjs Developer / UI/UX Developer</b>
 </p> 
 
 
