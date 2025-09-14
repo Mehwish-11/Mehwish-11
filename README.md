@@ -5,7 +5,9 @@
 <p align="center">
   <b>ReactJs Developer / UI/UX Developer</b>
 </p> 
+<p align="center"> Fullstack
 
+</p>
 
  --- 
 
