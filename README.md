@@ -41,7 +41,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,mocha,junit,selenium" />
+  <img src="https://skillicons.dev/icons?i=jest,selenium" />
 </p>
 
 <!-- Badges for tools not available in skillicons.dev -->
@@ -51,6 +51,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
   <img src="https://img.shields.io/badge/Highcharts-2E6E9E?style=for-the-badge&logo=highcharts&logoColor=white" />
   <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
 </p>
 
 
