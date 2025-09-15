@@ -10,8 +10,6 @@
 I am a **Full Stack Developer** with strong expertise in **React.js** and modern web technologies.  
 My work combines **scalable back-end systems** with **intuitive, high-performance user interfaces**.  
 
-Currently, I’m focusing on **Next.js, cloud-native development, and design systems** while applying React.js to deliver engaging, production-ready applications.  
-
 - 🔭 **Working on**: Scalable full stack solutions & React-driven projects  
 - 🌱 **Learning**: Next.js · Cloud Infrastructure · System Design  
 - 🤝 **Collaborating on**: Full stack products & open-source initiatives  
