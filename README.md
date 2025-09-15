@@ -67,7 +67,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 - 🌍 [**Open Source Contributions**](https://mehwish-11.github.io/Anime-portfolio-ui/) — Actively contributing to the community  
 
 
----
+
 
 ## 🌐 Connect With Me  
 
