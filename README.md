@@ -22,8 +22,40 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 - 💬 Ask me about: **React, Three.js, Framer Motion**  
 - 📫 Reach me at: **mehwishfathima.mail@gmail.com**
 
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,jquery,bootstrap,tailwind,materialui,sass" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql,apollo,mongodb,dynamodb,mysql,oracle" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,mocha,junit,selenium" />
+</p>
+
+<!-- Badges for tools not available in skillicons.dev -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Highcharts-2E6E9E?style=for-the-badge&logo=highcharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
 
 
+
+<!--
 ## 🚀 Tech Stack  
 
 <p align="center">
@@ -38,7 +70,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
 
-</p>
+</p> -->
 
 <!-- ## 🚀 Tech Stack  
 
