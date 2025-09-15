@@ -1,21 +1,20 @@
-<h1 align="center"> Mehwish Fathima </h1>
+<h1 align="center">✨ Mehwish Fathima ✨</h1>
 <p align="center">
-  <b>Full Stack Developer • React.js Specialist</b><br/>
-  Turning complex ideas into scalable, user-friendly, and beautiful web applications
+  <b>Full Stack Developer | React.js Focus</b><br/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I am a **Full Stack Developer** with a strong specialization in **React.js and modern front-end engineering**.  
-I love building applications that merge **creativity, performance, and usability** — from polished UIs to robust back-end systems.  
+I am a **Full Stack Developer** with strong expertise in **React.js** and modern web technologies.  
+My work combines **scalable back-end systems** with **intuitive, high-performance user interfaces**.  
 
-Currently, I’m expanding my skills in **Next.js and cloud-native development**, while refining expertise in **design systems and user-centric interfaces**.  
+Currently, I’m focusing on **Next.js, cloud-native development, and design systems** while applying React.js to deliver engaging, production-ready applications.  
 
-- 🔭 **Working on**: Scalable full stack solutions & React-driven UI/UX projects  
-- 🌱 **Learning**: Next.js, Cloud Infrastructure, Motion Design  
-- 🤝 **Collaborating on**: Open-source projects and innovative web products  
+- 🔭 **Working on**: Scalable full stack solutions & React-driven projects  
+- 🌱 **Learning**: Next.js · Cloud Infrastructure · System Design  
+- 🤝 **Collaborating on**: Full stack products & open-source initiatives  
 - 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com)  
 
 ---
@@ -36,9 +35,9 @@ Currently, I’m expanding my skills in **Next.js and cloud-native development**
 
 ## 🔥 Projects  
 
-- **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio showcasing my React + UI/UX work  
+- **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio showcasing React & UI/UX work  
 - **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable React + Tailwind components  
-- **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Active contributions to React-based and UI/UX projects  
+- **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Contributions to React-based and community projects  
 
 ---
 
@@ -49,7 +48,3 @@ Currently, I’m expanding my skills in **Next.js and cloud-native development**
   <a href="mailto:mehwishfathima.mail@gmail.com">Email</a> •
   <a href="https://github.com/mehwish-11">GitHub</a>
 </p>
-
----
-
-<p align="center"><i>"Clean code builds systems. React builds experiences."</i></p>
