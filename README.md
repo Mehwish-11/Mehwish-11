@@ -33,7 +33,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp, Django" />
 </p>
 
 <p align="center">
