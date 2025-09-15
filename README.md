@@ -1,5 +1,5 @@
 <h1 align="center" style="color:black; font-weight:900; font-family:'Trebuchet MS', Arial, sans-serif;">
-  **Mehwish Fathima**
+ Mehwish Fathima
 </h1>
 
 <p align="center">
