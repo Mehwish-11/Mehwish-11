@@ -10,10 +10,10 @@
 I am a **Full Stack Developer** with strong expertise in **React.js** and modern web technologies.  
 My work combines **scalable back-end systems** with **intuitive, high-performance user interfaces**.  
 
-- 🔭 **Working on**: Scalable full stack solutions & React-driven projects  
-- 🌱 **Learning**: Next.js · Cloud Infrastructure · System Design  
-- 🤝 **Collaborating on**: Full stack products & open-source initiatives  
-- 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com)  
+- 🔭 **Working on**: Scalable full-stack applications & design systems  
+- 🌱 **Learning**: Next.js, Cloud Infrastructure, Motion Design  
+- 🤝 **Collaborating on**: Open-source and product-driven projects  
+- 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com) 
 
 ---
 
