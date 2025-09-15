@@ -1,8 +1,11 @@
-<h1 align="center"> Mehwish Fathima </h1>
-<p align="center">
-  <b>Full Stack Developer | React.js Focus</b><br/>
-</p>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Mehwish+Fathima;Full+Stack+Developer;React.js+Specialist;Cloud+%7C+3D+Web+Apps+%7C+UI%2FUX" alt="Typing Animation" /> 
+</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <b>Full Stack Developer | React.js Focus</b>
+</p>
 
 
 ## 👩‍💻 About Me  
