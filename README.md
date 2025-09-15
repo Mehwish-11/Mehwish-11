@@ -1,4 +1,4 @@
- <h1 align="center">✨ Mehwish Fathima ✨</h1>
+<h1 align="center">✨ Mehwish Fathima ✨</h1>
 <p align="center">
   <b>Full Stack Developer | React.js Focus</b>
 </p>
