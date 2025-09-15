@@ -3,7 +3,6 @@
   <b>Full Stack Developer | UI/UX Engineer</b>
 </p> 
 
----
 
 ## 👩‍💻 About Me  
 
@@ -17,19 +16,18 @@ I specialize in building **responsive interfaces**, **REST/GraphQL APIs**, and *
 - 👯 Open to collaborating on: **Full stack products, open-source projects, and scalable architectures**  
 - 📫 Contact: **mehwishfathima.mail@gmail.com**  
 
----
 
 ## 🚀 Tech Stack  
 
-| **Category**     | **Technologies** |
-|------------------|------------------|
-| **Languages**    | JavaScript, TypeScript, Python, Java |
-| **Frontend**     | React, Next.js, Angular, Redux, Tailwind CSS, Bootstrap, MUI, Sass |
-| **Backend**      | Node.js, Express.js, Spring Boot, GraphQL, Apollo |
-| **Databases**    | MongoDB, MySQL, Oracle, DynamoDB |
-| **Cloud & DevOps** | AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible |
-| **CI/CD & VCS**  | Git, GitHub, GitLab, Jenkins, GitHub Actions |
-| **Testing & Tools** | Jest, JUnit, Selenium, Cucumber, Jasmine, Axios, Lodash, Highcharts |
+| 🎯 **Category**     | ⚡ **Technologies** |
+|---------------------|----------------------|
+| 💻 **Languages**    | **JavaScript**, **TypeScript**, Python, Java |
+| 🎨 **Frontend**     | **React**, **Next.js**, Angular, Redux, Tailwind CSS, Bootstrap, Material UI, Sass |
+| ⚙️ **Backend**      | **Node.js**, **Express.js**, Spring Boot, GraphQL, Apollo |
+| 🗄️ **Databases**    | **MongoDB**, **MySQL**, Oracle, DynamoDB |
+| ☁️ **Cloud & DevOps** | **AWS**, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible |
+| 🔄 **CI/CD & VCS**  | Git, GitHub, GitLab, Jenkins, GitHub Actions |
+| 🧪 **Testing & Tools** | Jest, JUnit, Selenium, Cucumber, Jasmine, Axios, Lodash, Highcharts |
 
 ## 🔥 Featured Projects  
 
@@ -37,7 +35,6 @@ I specialize in building **responsive interfaces**, **REST/GraphQL APIs**, and *
 - 🏗️ [**UI Components Library**](https://gaming-project-iota.vercel.app/) — Collection of **reusable React + Tailwind UI components**.  
 - 🌍 [**Open Source Work**](https://mehwish-11.github.io/Anime-portfolio-ui/) — Contributions to **community-driven UI and full stack projects**.  
 
----
 
 ## 🌐 Connect With Me  
 
