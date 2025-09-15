@@ -1,48 +1,48 @@
-<h1 align="center">✨ Mehwish Fathima ✨</h1>
+<h1 align="center"> Mehwish Fathima </h1>
 <p align="center">
-  <b>Full Stack Developer • UI/UX Engineer</b><br/>
-  Building scalable apps with <i>logic, design, and user-focus</i>
+  <b>Full Stack Developer • React.js Specialist</b><br/>
+  Turning complex ideas into scalable, user-friendly, and beautiful web applications
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I’m a **Full Stack Developer** passionate about crafting applications that are  
-**scalable, user-friendly, and visually engaging**.  
+I am a **Full Stack Developer** with a strong specialization in **React.js and modern front-end engineering**.  
+I love building applications that merge **creativity, performance, and usability** — from polished UIs to robust back-end systems.  
 
-I enjoy blending **clean code + creative design** to deliver seamless digital experiences.  
-Currently deepening my expertise in **Next.js, cloud-native development, and system design**.  
+Currently, I’m expanding my skills in **Next.js and cloud-native development**, while refining expertise in **design systems and user-centric interfaces**.  
 
-- 🔭 **Working on**: Scalable full-stack applications & design systems  
+- 🔭 **Working on**: Scalable full stack solutions & React-driven UI/UX projects  
 - 🌱 **Learning**: Next.js, Cloud Infrastructure, Motion Design  
-- 🤝 **Collaborating on**: Open-source and product-driven projects  
+- 🤝 **Collaborating on**: Open-source projects and innovative web products  
 - 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com)  
 
 ---
 
 ## 🚀 Tech Stack  
 
-| **Languages**     | JavaScript · TypeScript · Python · Java |
-|-------------------|-----------------------------------------|
-| **Frontend**      | React · Next.js · Angular · Redux · Tailwind · Bootstrap · MUI · Sass |
-| **Backend**       | Node.js · Express.js · Spring Boot · GraphQL · Apollo |
-| **Databases**     | MongoDB · MySQL · Oracle · DynamoDB |
-| **Cloud & DevOps**| AWS · Azure · Google Cloud · Docker · Kubernetes · Terraform · Ansible |
-| **CI/CD**         | Git · GitHub · GitLab · Jenkins · GitHub Actions |
-| **Testing/Tools** | Jest · JUnit · Selenium · Cucumber · Jasmine · Axios · Lodash · Highcharts |
+| **Category**     | **Technologies** |
+|------------------|------------------|
+| **Languages**    | JavaScript · TypeScript · Python · Java |
+| **Frontend**     | **React.js** · Next.js · Angular · Redux · Tailwind · Bootstrap · MUI · Sass |
+| **Backend**      | Node.js · Express.js · Spring Boot · GraphQL · Apollo |
+| **Databases**    | MongoDB · MySQL · Oracle · DynamoDB |
+| **Cloud & DevOps** | AWS · Azure · Google Cloud · Docker · Kubernetes · Terraform · Ansible |
+| **CI/CD**        | Git · GitHub · GitLab · Jenkins · GitHub Actions |
+| **Testing/Tools**| Jest · JUnit · Selenium · Cucumber · Jasmine · Axios · Lodash · Highcharts |
 
 ---
 
 ## 🔥 Projects  
 
-- **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio highlighting my skills & projects  
-- **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable UI components built with React + Tailwind  
-- **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Actively contributing to UI/UX and community projects  
+- **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio showcasing my React + UI/UX work  
+- **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable React + Tailwind components  
+- **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Active contributions to React-based and UI/UX projects  
 
 ---
 
-## 🌐 Let’s Connect  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/mehwishfathima11">LinkedIn</a> •
@@ -52,4 +52,4 @@ Currently deepening my expertise in **Next.js, cloud-native development, and sys
 
 ---
 
-<p align="center"><i>"Design is intelligence made visible — and code is its foundation."</i></p>
+<p align="center"><i>"Clean code builds systems. React builds experiences."</i></p>
