@@ -41,7 +41,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,selenium" />
+  <img src="https://skillicons.dev/icons?i=jest,selenium,python" />
 </p>
 
 <!-- Badges for tools not available in skillicons.dev -->
