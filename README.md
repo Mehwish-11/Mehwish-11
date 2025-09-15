@@ -7,12 +7,9 @@
 </p> 
 
 
- --- 
-
 ![Profile views](https://img.shields.io/badge/Profile%20views-1,128-brightgreen)
 
 
----
 
 ## 👩‍💻 About Me  
 
@@ -25,7 +22,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 - 💬 Ask me about: **React, Three.js, Framer Motion**  
 - 📫 Reach me at: **mehwishfathima.mail@gmail.com**
 
----
+
 
 ## 🚀 Tech Stack  
 
@@ -61,7 +58,7 @@ Currently diving deep into **Next.js, React, and design systems**, while explori
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,redux,nextjs,nodejs,mongodb,python,java,pytorch,git,latex,"/>  
 </p>   -->
----
+
 
 ## 🔥 Featured Projects  
 
