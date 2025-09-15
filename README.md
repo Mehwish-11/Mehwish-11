@@ -1,114 +1,67 @@
-<!-- Banner -->
-
-
- <h1 align="center">Mehwish Fathima</h1>
+<h1 align="center">Mehwish Fathima</h1>
 <p align="center">
-  <b>ReactJs Developer / UI/UX Developer</b>
+  <b>Full Stack Developer | UI/UX Engineer</b>
 </p> 
 
-
-![Profile views](https://img.shields.io/badge/Profile%20views-1,128-brightgreen)
-
-
+---
 
 ## 👩‍💻 About Me  
 
-I’m passionate about **building beautiful, functional, and user-friendly web applications**.  
-Currently diving deep into **Next.js, React, and design systems**, while exploring ways to merge **creativity + logic + design**.  
+I am a **Full Stack Developer** with experience in designing and delivering **scalable, secure, and user-focused applications**.  
+My work combines **front-end development, back-end engineering, and UI/UX design principles** to create seamless digital experiences.  
 
-- 🔭 Working on: **UI/UX projects & ReactJs**  
-- 🌱 Learning: **Next.js / Motion Design**  
-- 👯 Open to collaborate on: **Open Source & UI/UX focused apps**  
-- 💬 Ask me about: **React, Three.js, Framer Motion**  
-- 📫 Reach me at: **mehwishfathima.mail@gmail.com**
+I specialize in building **responsive interfaces**, **REST/GraphQL APIs**, and **cloud-ready applications**, while ensuring performance and maintainability.  
 
-## 🚀 Tech Stack  
+- 🔭 Currently working on: **Enterprise-scale full stack solutions & UI/UX-driven projects**  
+- 🌱 Expanding knowledge in: **Next.js, Cloud-Native Development, and System Design**  
+- 👯 Open to collaborating on: **Full stack products, open-source projects, and scalable architectures**  
+- 📫 Contact: **mehwishfathima.mail@gmail.com**  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,jquery,bootstrap,tailwind,materialui,sass" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql,apollo,mongodb,dynamodb,mysql,oracle" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,selenium,python" />
-</p>
-
-<!-- Badges for tools not available in skillicons.dev -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Highcharts-2E6E9E?style=for-the-badge&logo=highcharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
-</p>
-
-
-
-<!--
-## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass,nodejs,express,java,spring" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,docker,kubernetes,azure,gcp" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
-
-</p> -->
-
-<!-- ## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,tailwind,bootstrap,materialui,sass,nodejs,express,java,spring,graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp,git,github,jenkins,python,pytorch" />
-</p>
+---
 
 ## 🚀 Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,angular,tailwind,bootstrap,materialui,sass,nodejs,express,java,spring,graphql,mongodb,mysql,docker,kubernetes,aws,azure,gcp,jenkins,git,github" />
-</p>
+**Languages**  
+`JavaScript` `TypeScript` `Java` `Python`  
 
+**Frontend**  
+`React.js` `Next.js` `Redux` `Angular` `TailwindCSS` `Bootstrap` `Material UI` `Sass`  
 
-## 🚀 Tech Stack  
+**Backend**  
+`Node.js` `Express.js` `Spring Boot` `GraphQL` `Apollo`  
 
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,bootstrap,redux,nextjs,nodejs,mongodb,python,java,pytorch,git,latex,"/>  
-</p>   -->
+**Databases**  
+`MongoDB` `MySQL` `Oracle` `DynamoDB`  
 
+**Cloud & DevOps**  
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible`  
+
+**CI/CD & Version Control**  
+`Git` `GitHub` `GitLab` `Jenkins` `GitHub Actions`  
+
+**Testing & Tools**  
+`Jest` `JUnit` `Selenium` `Cucumber` `Jasmine`  
+
+**Other Libraries & Utilities**  
+`Axios` `Highcharts` `Lodash`  
+
+---
 
 ## 🔥 Featured Projects  
 
-- 🚀 [**Portfolio Website**](https://mehwish-11.github.io/3D-Animation/) — My personal portfolio showcasing UI/UX and dev projects  
-- 🎨 [**UI Components Library**](https://gaming-project-iota.vercel.app/) — Reusable React + Tailwind UI components  
-- 🌍 [**Open Source Contributions**](https://mehwish-11.github.io/Anime-portfolio-ui/) — Actively contributing to the community  
+- 💼 [**Portfolio Website**](https://mehwish-11.github.io/3D-Animation/) — Interactive portfolio showcasing my work in **UI/UX and development**.  
+- 🏗️ [**UI Components Library**](https://gaming-project-iota.vercel.app/) — Collection of **reusable React + Tailwind UI components**.  
+- 🌍 [**Open Source Work**](https://mehwish-11.github.io/Anime-portfolio-ui/) — Contributions to **community-driven UI and full stack projects**.  
 
-
-
+---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehwishfathima11" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mehwishfathima.mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/mehwishfathima11" target="_blank">LinkedIn</a> •
+  <a href="mailto:mehwishfathima.mail@gmail.com">Email</a>
 </p>
 
 ---
 
-<p align="center">✨ “Design is intelligence made visible” ✨</p>
+<p align="center">💡 "Transforming ideas into scalable digital solutions." 💡</p>
