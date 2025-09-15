@@ -3,7 +3,7 @@
   <b>Full Stack Developer | React.js Focus</b><br/>
 </p>
 
----
+
 
 ## 👩‍💻 About Me  
 
@@ -15,7 +15,7 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 - 🤝 **Collaborating on**: Open-source and product-driven projects  
 - 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com) 
 
----
+
 
 ## 🚀 Tech Stack  
 
@@ -29,7 +29,7 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 | **CI/CD**        | Git · GitHub · GitLab · Jenkins · GitHub Actions |
 | **Testing/Tools**| Jest · JUnit · Selenium · Cucumber · Jasmine · Axios · Lodash · Highcharts |
 
----
+
 
 ## 🔥 Projects  
 
@@ -37,7 +37,7 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 - **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable React + Tailwind components  
 - **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Contributions to React-based and community projects  
 
----
+
 
 ## 🌐 Connect With Me  
 
