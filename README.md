@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me  
 
-I am a **Full Stack Developer** with strong expertise in **React.js** and modern web technologies.  
+I am a **Web Developer** with strong expertise in **React.js** and modern web technologies.  
 My work combines **scalable back-end systems** with **intuitive, high-performance user interfaces**.  
 
 - 🔭 **Working on**: Scalable full-stack applications & design systems  
