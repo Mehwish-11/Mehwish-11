@@ -44,7 +44,15 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehwishfathima11">LinkedIn</a> •
-  <a href="mailto:mehwishfathima.mail@gmail.com">Email</a> •
-  <a href="https://github.com/mehwish-11">GitHub</a>
+  <a href="https://linkedin.com/in/mehwishfathima11" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mehwishfathima.mail@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mehwish-11" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
