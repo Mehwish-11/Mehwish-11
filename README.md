@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Full Stack Developer | React.js Focus</b>
+  <b>Full Sack Developer | React.js Focus</b>
 </p>
 
 
