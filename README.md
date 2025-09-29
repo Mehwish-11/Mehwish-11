@@ -19,17 +19,6 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 
 
 
-## 🚀 Tech Stack  
-
-| **Category**     | **Technologies** |
-|------------------|------------------|
-| **Languages**    | JavaScript · TypeScript · Python · Java |
-| **Frontend**     | **React.js** · Next.js · Angular · Redux · Tailwind · Bootstrap · MUI · Sass |
-| **Backend**      | Node.js · Express.js · Spring Boot · GraphQL · Apollo |
-| **Databases**    | MongoDB · MySQL · Oracle · DynamoDB |
-| **Cloud & DevOps** | AWS · Azure · Google Cloud · Docker · Kubernetes · Terraform · Ansible |
-| **CI/CD**        | Git · GitHub · GitLab · Jenkins · GitHub Actions |
-| **Testing/Tools**| Jest · JUnit · Selenium · Cucumber · Jasmine · Axios · Lodash · Highcharts |
 
 
 
