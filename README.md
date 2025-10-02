@@ -22,7 +22,7 @@ My work combines **scalable back-end systems** with **intuitive, high-performanc
 
 
 
-## 🔥 Projects  
+## 🔥 Projects 
 
 - **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio showcasing React & UI/UX work  
 - **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable React + Tailwind components  
