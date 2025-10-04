@@ -11,14 +11,14 @@
 
 </div>
 
-##  **About Me**
+## 🍃 **About Me**
 I am a **Software Engineer** specializing in **Python development** and scalable web architectures.  
 My focus lies in crafting **efficient, reliable, and performance-driven systems** that balance robust backend logic with seamless user experiences.  
 With a mindset rooted in engineering precision, I enjoy solving real-world challenges through clean code, thoughtful design, and modern technology stacks.  
 
 
 
-##  **What I Do**
+## 🌱 **What I Do**
 - Architect and develop **full-stack applications** with Python frameworks  
 - Build **API-centric systems** with modern, maintainable backend structures  
 - Design and integrate **React-based interfaces** for intuitive user interaction  
@@ -41,6 +41,6 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 ##
 <div align="center">
 
-🛠️ *Built with passion, precision, and Python.*
+✨ *Built with passion, precision, and Python.* ✨
 
 </div>
