@@ -31,13 +31,12 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 
 <div align="center">
   <a href="mailto:mehwishfathima.mail@gmail.com">
-    [![LinkedIn](https://skillicons.dev/icons?i=LinkedIn)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/mehwishfatima11">
-    [![My Skills](https://skillicons.dev/icons?i=Gmail)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
-
 
 
 ## <div align="center">
