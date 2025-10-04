@@ -27,15 +27,17 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 
 
 
-## ​📫  Contact
-​<div align="center">
-<a href="mailto:mehwishfathima.mail@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/mehwishfatima11">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="40" height="40"/>
-</a>
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:mehwishfathima.mail@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehwishfatima11">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </div>
+
 
 ## <div align="center">
 
