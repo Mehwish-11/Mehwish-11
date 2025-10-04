@@ -40,8 +40,7 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 
 ## 📫 Contact
 📧 [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com)  
-💼 [LinkedIn](#) — *Add your LinkedIn link here*  
-🌐 [Portfolio](#) — *Add your portfolio link here*  
+💼 [LinkedIn](#) — *https://www.linkedin.com/in/mehwishfatima11*  
 
 
 
