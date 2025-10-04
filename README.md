@@ -1,32 +1,27 @@
-<h1 align="center" style="color:black; font-weight:900; font-family:'Trebuchet MS', Arial, sans-serif;">
- Mehwish Fathima
-</h1>
-
-<p align="center">
-  <b>Full Stack Developer | React.js Focus</b>
-</p>
-
-
-## 👩‍💻 About Me  
-
-I am a **Web Developer** with strong expertise in **React.js** and modern web technologies.  
-My work combines **scalable back-end systems** with **intuitive, high-performance user interfaces**.  
-
-- 🔭 **Working on**: Scalable full-stack applications & design systems  
-- 🌱 **Learning**: Next.js, Cloud Infrastructure, Motion Design  
-- 🤝 **Collaborating on**: Open-source and product-driven projects  
-- 📫 **Reach me**: [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com) 
+# **Mehwish Fathima**
+### *Software Engineer | Python Developer | React.js Enthusiast*
 
 
 
+## 🧭 Professional Overview
+I am a **Software Engineer** with a strong foundation in **Python development**, system design, and scalable web architecture.  
+My engineering approach focuses on building **robust, maintainable, and efficient solutions** that bridge complex backend logic with seamless front-end experiences.  
+With hands-on experience across the development lifecycle — from concept to deployment — I prioritize reliability, clarity, and long-term scalability in every project.  
+
+
+## ⚙️ Core Expertise
+- Designing and developing **full-stack applications** using Python-based frameworks  
+- Building **API-driven systems** and integrating them with modern web interfaces  
+- Implementing **clean architecture** and modular software design principles  
+- Enhancing **system performance**, scalability, and maintainability  
 
 
 
-## 🔥 Projects 
+## 💼 Professional Ethos
+As a developer, I believe that software engineering is a discipline of precision, creativity, and continuous refinement.  
+I approach every challenge with a mindset focused on **clarity, performance, and long-term impact**, ensuring technology serves both users and business goals effectively.  
 
-- **[Portfolio Website](https://mehwish-11.github.io/3D-Animation/)** — 3D interactive portfolio showcasing React & UI/UX work  
-- **[UI Components Library](https://gaming-project-iota.vercel.app/)** — Reusable React + Tailwind components  
-- **[Open Source Contributions](https://mehwish-11.github.io/Anime-portfolio-ui/)** — Contributions to React-based and community projects  
+
 
 
 
