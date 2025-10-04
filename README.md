@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👩‍💻 **Mehwish Fathima**
+# ✨ **Mehwish Fathima** ✨
 ### *Software Engineer • Python Developer • React.js Enthusiast*
 
 ---
