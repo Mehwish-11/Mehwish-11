@@ -38,8 +38,8 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
   </a>
 </div>
 
-
-## <div align="center">
+##
+<div align="center">
 
 🛠️ *Built with passion, precision, and Python.*
 
