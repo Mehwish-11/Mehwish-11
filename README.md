@@ -26,22 +26,17 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 
 
 
-## 🚀 Featured Projects
-**🔹 Portfolio Website** — Interactive 3D portfolio built with React & Three.js  
-**🔹 Component Library** — Modular, reusable UI system developed with React & Tailwind  
-**🔹 Open Source Work** — Contributions to Python and React-based community tools  
 
+## 📫 Contact  
 
-
-## 💼 Philosophy
-> “Software engineering is not about writing code — it’s about creating solutions that last.”  
-
-
-
-## 📫 Contact
-📧 [mehwishfathima.mail@gmail.com](mailto:mehwishfathima.mail@gmail.com)  
-💼 [LinkedIn](#) — *https://www.linkedin.com/in/mehwishfatima11*  
-
+<p align="left">
+  <a href="mailto:mehwishfathima.mail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehwishfatima11">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 <div align="center">
