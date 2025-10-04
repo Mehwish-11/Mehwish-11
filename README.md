@@ -18,7 +18,7 @@ With a mindset rooted in engineering precision, I enjoy solving real-world chall
 
 
 
-## 🌱 **What I Do**
+## 🍃 **What I Do**
 - Architect and develop **full-stack applications** with Python frameworks  
 - Build **API-centric systems** with modern, maintainable backend structures  
 - Design and integrate **React-based interfaces** for intuitive user interaction  
