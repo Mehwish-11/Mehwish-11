@@ -8,7 +8,6 @@
 ### *Software Engineer • Python Developer • React.js Enthusiast*
 
 
-
 </div>
 
 ## 🍃 **About Me**
