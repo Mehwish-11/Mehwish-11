@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mehwish
+## Mehwish Fathima 
 
 I'm a Software Engineer with a strong interest in backend development,
 API design, and data-driven systems.
