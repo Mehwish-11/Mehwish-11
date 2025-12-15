@@ -1,4 +1,4 @@
-## Mehwish Fathima 
+<p align="center"> ## Mehwish Fathima </p>
 
 I'm a Software Engineer with a strong interest in backend development,
 API design, and data-driven systems.
